@@ -1,0 +1,34 @@
+.name{
+      color: green;
+      display: flex;
+      justify-content: left;
+      font-size: 35px;
+}
+
+#icone{
+      color: aquamarine;
+      display: flex;
+      justify-content: right;
+      font-size: 30px;
+}
+header{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.25rem;
+      font-size: 1em;
+      background-color: grey;
+ }
+
+.nameItem{
+      justify-content: center;
+      padding: 7px;
+      
+}
+.item{
+      padding: 5px;
+}
+
+  
+   
